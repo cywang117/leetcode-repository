@@ -1,5 +1,5 @@
 # LeetCode Repository
-A repository of leetcode solutions in various programming languages.
+A repository of my leetcode solutions in various programming languages.
 
 ## Current Solutions:
 
